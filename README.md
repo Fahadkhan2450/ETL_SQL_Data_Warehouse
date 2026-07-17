@@ -33,7 +33,7 @@ This project covers the following areas:
 - **Data Architecture** — Designing a modern data warehouse built on the Bronze, Silver, and Gold layer model.
 - **ETL Pipelines** — Extracting, transforming, and loading data from source systems into the warehouse.
 
-https://github.com/Fahadkhan2450/SQL_Data-WareHouse/blob/b516d97702c9aad4bfbf9f45725953e60461171f/docs/Data_flow.drawio.png
+![image alt](https://github.com/Fahadkhan2450/SQL_Data-WareHouse/blob/b516d97702c9aad4bfbf9f45725953e60461171f/docs/Data_flow.drawio.png)
 
 - **Data Modeling** — Building fact and dimension tables optimized for analytical queries.
 - **Analytics & Reporting** — Writing SQL-based reports and dashboards that surface actionable insights.
